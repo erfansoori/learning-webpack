@@ -1,0 +1,10 @@
+.title{
+    font-size: 2rem;
+    color:rgb(65, 64, 64);
+    padding-right: 30px;
+    border-bottom: 1px solid #454545;
+}
+.body{
+    padding: 30px;
+    line-height: 2;
+}
